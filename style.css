@@ -5,8 +5,7 @@ h1 {
 
 body {
   align-items: center;
-  background-color: rgb(144, 94, 224);
-  background: url("/onlineclass.jpg");
+  background: url("/assets/background.jpg");
   background-repeat: no-repeat;
   background-size: 2000px 1000px;
 }
@@ -14,4 +13,8 @@ body {
 .dev {
   text-align: center;
   margin-top: 100px;
+}
+
+a {
+  text-decoration-line: none;
 }
